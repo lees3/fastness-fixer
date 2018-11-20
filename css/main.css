@@ -58,11 +58,3 @@ body::before {
   text-transform: uppercase;
   font-family: sans-serif;
 }
-
-.ad {
-  display: block;
-  height: 240px;
-  width: 320px;
-
-  border: 0;
-}
